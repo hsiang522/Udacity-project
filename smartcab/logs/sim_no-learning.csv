@@ -1,3 +1,1 @@
 trial,testing,parameters,initial_deadline,final_deadline,net_reward,actions,success
-1,False,"{'a': 0.5, 'e': 1.0}",25,3,-49.04257243212401,"{0: 16, 1: 1, 2: 4, 3: 1, 4: 0}",1
-2,False,"{'a': 0.5, 'e': 1.0}",20,0,-109.51081125733484,"{0: 12, 1: 2, 2: 3, 3: 2, 4: 1}",0
