@@ -1,6 +1,6 @@
 # Udacity-project
 
-boston_housing:
+boston_housing:  
 Build an optimal machine learning model to predict the best selling price for the customer’s house in the Boston metropolitan area based on a statistical analysis of the historical data.
 
 customer_segments:
